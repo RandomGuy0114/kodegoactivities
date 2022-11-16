@@ -1,0 +1,19 @@
+body{
+    background-color: aqua;
+    font-style: oblique;
+}
+.btn{
+    background-color: blue;
+    border-radius: 10pc;
+    font-style: oblique;
+}
+/* hover for buttons */
+.btn:hover{
+    background-color: rebeccapurple;
+}
+
+.inputs{
+    border: 10px solid blue;
+    padding-bottom: 15px;
+    
+}
